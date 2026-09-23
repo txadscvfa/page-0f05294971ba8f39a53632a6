@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "052deda25eff8ff091c87829",
+  "owner": "txadscvfa",
+  "repo": "page-0f05294971ba8f39a53632a6",
+  "title": "华云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "0f05294971ba8f39a53632a6",
+      "a": "华云",
+      "b": "2027官方最新地址导航",
+      "entity": "华云",
+      "brand": "华云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "30c1da989cbc527b75fffdd767144956773c98915a75b55b100c249a08207020",
+      "content": {
+        "primary_entity": "华云",
+        "keyword1": "华云",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择客户端，再导入订阅链接。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求挑选套餐，导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "选对套餐，连接更省心",
+          "AI_DESCRIPTION": "，面向需要稳定跨境连接的用户，提供基础版、旗舰版与团队版三档套餐。基础版每月100GB流量，支持3台设备；旗舰版每月300GB，支持5台设备并配备IPLC专线；团队版每月1000GB，支持20台设备。可按月订阅，也可按年付费节省费用，客户端订阅配置简单，适合个人与小型团队按需选择。",
+          "AI_FEATURES_INTRO": "从设备数量、流量需求与订阅周期出发，快速匹配适合的套餐。",
+          "AI_FEATURES_TITLE": "套餐与使用要点",
+          "AI_FEATURE_TEXT_1": "基础版适合1至3台设备，旗舰版覆盖5台，团队版可容纳20台设备同时在线。",
+          "AI_FEATURE_TITLE_1": "按设备数选套餐",
+          "AI_FEATURE_TEXT_2": "月付灵活，年付更省：基础版年付¥150，旗舰版年付¥350，团队版年付¥850。",
+          "AI_FEATURE_TITLE_2": "订阅周期与费用",
+          "AI_FEATURE_TEXT_3": "旗舰版含IPLC专线，团队版提供VIP高带宽节点与企业定制路由选项。",
+          "AI_FEATURE_TITLE_3": "线路与带宽差异",
+          "AI_GUIDE_INTRO": "三步完成从选择到使用的流程。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "华云提供多档海外加速套餐，覆盖个人到团队的不同连接需求。基础版、旗舰版、团队版在流量、设备数与节点类型上各有侧重，可按月或按年订阅，配合主流客户端导入订阅即可使用。",
+          "AI_HERO_SUBTITLE": "多档套餐，适配不同设备",
+          "AI_HIGHLIGHT_1": "月付低至¥15，年付更划算",
+          "AI_HIGHLIGHT_2": "旗舰版配IPLC专线优化",
+          "AI_HIGHLIGHT_3": "团队版支持20台设备在线",
+          "AI_PLANS_INTRO": "基础版、旗舰版、团队版在流量、设备数和节点权限上逐级提升，按实际用量选择即可。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量与每月流量评估，基础版适合轻量使用，旗舰版与团队版适合多设备场景。",
+          "AI_STEP_TITLE_1": "确定订阅档位",
+          "AI_STEP_TEXT_2": "查看所选套餐的设备数、流量与线路说明，确认是否满足日常使用。",
+          "AI_STEP_TITLE_2": "核对适配要求",
+          "AI_STEP_TEXT_3": "下载对应设备客户端，按客户端文档导入订阅链接，完成配置。",
+          "AI_STEP_TITLE_3": "配置客户端订阅",
+          "AI_VISUAL_TITLE": "华云多档加速套餐",
+          "AI_FAQ_TITLE": "华云常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "华云不同套餐的主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "主要区别在每月流量、同时在线设备数和线路类型。基础版100GB、3台设备；旗舰版300GB、5台设备并含IPLC专线游戏优化；团队版1000GB、20台设备并支持企业定制路由。",
+          "AI_FAQ_QUESTION_2": "华云订阅如何导入客户端？",
+          "AI_FAQ_ANSWER_2": "在对应设备上安装客户端后，按照客户端文档中的订阅导入说明操作，粘贴订阅信息并保存即可。不同客户端界面略有差异，请以实际客户端为准。",
+          "AI_FAQ_QUESTION_3": "一个华云账号能同时登录几台设备？",
+          "AI_FAQ_ANSWER_3": "基础版支持3台设备同时在线，旗舰版支持5台，团队版支持20台。超出限制可能导致部分设备无法连接，建议根据常用设备数量选择对应套餐。",
+          "AI_FAQ_QUESTION_4": "华云年付和月付哪个更合适？",
+          "AI_FAQ_ANSWER_4": "月付适合短期试用或临时需求，年付适合长期稳定使用。基础版年付¥150，旗舰版年付¥350，团队版年付¥850，相比月付累计可节省一定费用。",
+          "AI_FAQ_QUESTION_5": "华云旗舰版的IPLC专线适合哪些场景？",
+          "AI_FAQ_ANSWER_5": "旗舰版包含IPLC专线游戏加速优化，适合对延迟较敏感的游戏、实时协作等场景。同时提供全节点原生流媒体解锁与7x24优先工单支持。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "apvolpy.cn",
+    "host": "apvolpy.cn"
+  },
+  "file_hashes": {
+    "index.html": "f57957de4161d2f86777591774402015b51630d508d3a48c95ad6d7c3a3ab401",
+    "sitemap.xml": "634a1fe1cc02a034442f7818a0f5ee718be25cfab4b1ebc971206e690a1ce5c4",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "7449e093464ec8e374b25aa35934f2224573118f4d3848eb36fa9d8ba6dce6d9",
+    "robots.txt": "e2ede183e88eadb233e7b1e05bfd9f5f31632b48a5942a7bc34573ea0db04bef",
+    "ac3cad769718a7987948e636b7c75bee.txt": "5dd10d4b9a39bee9027e235c6137c2a7eabae463d6e710242648ab2395d10bc4"
+  },
+  "revision": "52a37f7adf9c230bbbc1b889ef5f61522e00b1fd3913ef28721120d42b59786c"
+}
